@@ -1,4 +1,4 @@
-### Hi there, I'm [Hassan Fouad]! 👋
+### Hi there, I'm Hassan Fouad! 👋
 
 Motivated software engineer with a robust foundation in backend development, honed through academic projects and practical experience in crafting scalable solutions. I have an analytical problem-solving mindset. Passionate about delivering high-performance software tailored to complex business needs while prioritizing user experience.
 
